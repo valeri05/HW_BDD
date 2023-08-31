@@ -1,4 +1,4 @@
-image: ubuntu-2004
+image: Ubuntu2004
 
 stack: jdk 11  # версия JDK
 
